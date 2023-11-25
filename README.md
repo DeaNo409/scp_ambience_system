@@ -13,13 +13,12 @@ So this is the Ambience System, which adds some random playing Ambience Sound. S
 
 Installing and changing the Chances + Cooldown (Editors like Visual Studio Code will make it more easy)
 
-```bash
   1. install this
 
   2. Put it in this folder: GarrysMod\garrysmod\addons
   -> You can find it, if you press right click on gmod in your Steam library 
   and then search local data or something. It will bring you to this folder
-```
+
 ### Changing Chances
 Changing the Chance that a sound will play after the Cooldown
 
