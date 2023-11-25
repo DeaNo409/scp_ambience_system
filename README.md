@@ -6,8 +6,10 @@ So this is the Ambience System, which adds some random playing Ambience Sound. S
 
 ## License
 
-[Apache](http://www.apache.org/licenses/) https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png
+[Apache](http://www.apache.org/licenses/) 
 If you use this in your project please give credits. If you want to modify this and upload it to the workshop, ask me first.
+
+[![CC BY License](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
 
 ## Installation
 
