@@ -20,31 +20,31 @@
 ]]
 
 local soundFiles = {
-    "mategaming/scp_ambient/SCPambient1.wav", --1
-    "mategaming/scp_ambient/SCPambient2.wav", --2
-    "mategaming/scp_ambient/SCPambient3.wav", --3
-    "mategaming/scp_ambient/SCPambient4.wav", --4
-    "mategaming/scp_ambient/SCPambient5.wav", --5
-    "mategaming/scp_ambient/SCPambient6.wav", --6
-    "mategaming/scp_ambient/SCPambient7.wav", --7
-    "mategaming/scp_ambient/SCPambient8.wav", --8
-    "mategaming/scp_ambient/SCPambient9.wav", --9
-    "mategaming/scp_ambient/SCPambient10.wav", --10
-    "mategaming/scp_ambient/SCPambient11.wav", --11
-    "mategaming/scp_ambient/SCPambient12.wav", --12
-    "mategaming/scp_ambient/SCPambient13.wav", --13
-    "mategaming/scp_ambient/SCPambient14.wav", --14
-    "mategaming/scp_ambient/SCPambient15.wav", --15
-    "mategaming/scp_ambient/SCPambient16.wav", --16
-    "mategaming/scp_ambient/SCPambient17.wav", --17
-    "mategaming/scp_ambient/SCPambient18.wav", --18
-    "mategaming/scp_ambient/SCPambient19.wav", --19
-    "mategaming/scp_ambient/SCPambient20.wav", --20
-    "mategaming/scp_ambient/SCPambient21.wav", --21
-    "mategaming/scp_ambient/SCPambient22.wav", --22
-    "mategaming/scp_ambient/SCPambient23.wav", --23
-    "mategaming/scp_ambient/SCPambient24.wav", --24
-    "mategaming/scp_ambient/SCPambient25.wav", --25
+    "mategaming/scp_ambient/SCPambient1.wav", 
+    "mategaming/scp_ambient/SCPambient2.wav", 
+    "mategaming/scp_ambient/SCPambient3.wav", 
+    "mategaming/scp_ambient/SCPambient4.wav", 
+    "mategaming/scp_ambient/SCPambient5.wav", 
+    "mategaming/scp_ambient/SCPambient6.wav", 
+    "mategaming/scp_ambient/SCPambient7.wav", 
+    "mategaming/scp_ambient/SCPambient8.wav", 
+    "mategaming/scp_ambient/SCPambient9.wav", 
+    "mategaming/scp_ambient/SCPambient10.wav", 
+    "mategaming/scp_ambient/SCPambient11.wav", 
+    "mategaming/scp_ambient/SCPambient12.wav", 
+    "mategaming/scp_ambient/SCPambient13.wav", 
+    "mategaming/scp_ambient/SCPambient14.wav", 
+    "mategaming/scp_ambient/SCPambient15.wav", 
+    "mategaming/scp_ambient/SCPambient16.wav", 
+    "mategaming/scp_ambient/SCPambient17.wav", 
+    "mategaming/scp_ambient/SCPambient18.wav", 
+    "mategaming/scp_ambient/SCPambient19.wav", 
+    "mategaming/scp_ambient/SCPambient20.wav", 
+    "mategaming/scp_ambient/SCPambient21.wav", 
+    "mategaming/scp_ambient/SCPambient22.wav", 
+    "mategaming/scp_ambient/SCPambient23.wav", 
+    "mategaming/scp_ambient/SCPambient24.wav", 
+    "mategaming/scp_ambient/SCPambient25.wav", 
     "mategaming/scp_ambient/holiday/halloween/evillaught.wav",
     "mategaming/scp_ambient/holiday/halloween/scaryatmosphere.wav",
     "mategaming/scp_ambient/holiday/halloween/scaryhorn.wav",
